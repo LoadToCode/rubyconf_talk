@@ -1,5 +1,7 @@
 Rails Girls Summer of Code
+
 RubyConfPt Presentation slides
+
 Team Load to Code & Team Ruby's Secret
 
 ============
